@@ -1,0 +1,59 @@
+NEW EMPLOYEE ONBOARDING GUIDE
+==============================
+
+Welcome to Acme Robotics! This guide walks you through your first two weeks.
+
+DAY 1: ACCOUNT SETUP
+---------------------
+- IT will email you your company account credentials before your start date.
+- Log into the company portal at portal.acmerobotics.internal and set up
+  multi-factor authentication (MFA) using the Okta Verify app.
+- Join the #new-hires channel on Slack and introduce yourself.
+- Your manager will schedule a welcome call for your first morning.
+
+DAY 1-3: REQUIRED TRAINING
+---------------------------
+All new employees must complete the following training modules within the
+first 3 days, accessible through the Learning Management System (LMS):
+  1. Information Security Basics (45 minutes)
+  2. Code of Conduct and Anti-Harassment Training (60 minutes)
+  3. Data Privacy Fundamentals (30 minutes)
+
+Completion is tracked automatically and reported to HR. Employees who do not
+complete training within 3 days will receive a reminder from HR on day 4.
+
+WEEK 1: TEAM INTEGRATION
+-------------------------
+Your manager will assign an onboarding buddy from your team. The buddy's job
+is to answer day-to-day questions, walk you through team-specific tools, and
+have lunch with you at least once during your first week.
+
+By the end of week 1, you should have:
+  - Met one-on-one with your manager to review your 30/60/90-day goals
+  - Set up your local development environment (engineering roles) or your
+    core SaaS tool access (non-engineering roles)
+  - Reviewed the team wiki and recent project documentation
+
+WEEK 2: FIRST PROJECT TASK
+----------------------------
+Your manager will assign a small, well-scoped starter task by the start of
+week 2. This task is intentionally low-risk and is meant to help you learn
+the codebase or workflows, not to test your skills. You are encouraged to
+ask questions liberally during this period; the team would much rather you
+ask than guess.
+
+BENEFITS ENROLLMENT
+---------------------
+You have 30 days from your start date to enroll in health, dental, and
+vision insurance through the benefits portal. If you do not enroll within
+this window, you will need to wait until the next open enrollment period
+(typically in November) unless you experience a qualifying life event.
+
+The company matches 401(k) contributions up to 4% of your salary, and you
+become eligible to enroll in the 401(k) plan on the first day of the month
+following your start date.
+
+QUESTIONS?
+-----------
+Reach out to your onboarding buddy, your manager, or the HR team at
+hr@acmerobotics.com for anything not covered in this guide.
